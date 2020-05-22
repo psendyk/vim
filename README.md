@@ -1,3 +1,3 @@
 # .vimrc
 ## Dependecies
-- `[VundleVim](https://github.com/VundleVim/Vundle.vim)`
+- [`VundleVim`](https://github.com/VundleVim/Vundle.vim)
